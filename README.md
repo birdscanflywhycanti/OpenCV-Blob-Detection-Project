@@ -1,11 +1,11 @@
 # OpenCV-Blob-Detection
 OpenCV v3.4.3. was used to recognise different components of 3D printed droplets that were filmed using a high-speed camera. We were tasked to implement computer vision algorithms to recognise the inner droplet and the outer wrap of the droplet. We were also tasked to implement a method to count the number of formed inner droplets per frame and Three videos of the droplets were provided, each with a different set of droplets. Video 1 and Video 3 both had fully formed outer wraps, which isolated the inner droplets. Video 1 and Video 3 differ in the appearance of the inner droplets, with video 3 having more translucent droplets. Video 2 was significantly different from the other videos as the inner droplets have no outer wrap. This meant that the inner droplets were not isolated from each other and were physically connected.
 ### Video 1:
-![Video 1](./Images/Video%201.png)
+![Video 1](./Images/Video%201%20Actual.png)
 ### Video 2:
-![Video 2](./Images/Video%202.png)
+![Video 2](./Images/Video%202%20Actual.png)
 ### Video 3:
-![Video 3](./Images/Video%203.png)
+![Video 3](./Images/Video%203%20Actual.png)
 
 # Design
 ## Centre of Mass/Blob Detection
