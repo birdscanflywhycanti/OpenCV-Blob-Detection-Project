@@ -1,0 +1,11 @@
+﻿  AINT 515 Coursework.cpp
+C:\Users\ivanc\Documents\Repos\AINT 515\Coursework\OpenCV\AINT 515 Coursework\AINT 515 Coursework.cpp(13,24): warning C4129: 'O': unrecognized character escape sequence
+C:\Users\ivanc\Documents\Repos\AINT 515\Coursework\OpenCV\AINT 515 Coursework\AINT 515 Coursework.cpp(22,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ivanc\Documents\Repos\AINT 515\Coursework\OpenCV\AINT 515 Coursework\AINT 515 Coursework.cpp(24,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ivanc\Documents\Repos\AINT 515\Coursework\OpenCV\AINT 515 Coursework\AINT 515 Coursework.cpp(52,31): warning C4305: '=': truncation from 'double' to 'float'
+  Generating code
+  1 of 324 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AINT 515 Coursework.vcxproj -> C:\Users\ivanc\Documents\Repos\AINT 515\Coursework\OpenCV\x64\Release\AINT 515 Coursework.exe
