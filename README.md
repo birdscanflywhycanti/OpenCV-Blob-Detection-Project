@@ -114,8 +114,7 @@ The droplets in video 2 were counted by totalling the number of circles per fram
 ![Screenshot showing droplets being counted on video 3](./Images/Video%203%20number%20of%20droplets.png)
 
 ## Conclusion
-The results are shown in the results section of the project document. The results show that the algorithm 
-was able to successfully identify the centre of mass of the droplets in Video 1 and 3. However, the centre of mass
+The results show that the algorithm was able to successfully identify the centre of mass of the droplets in Video 1 and 3. However, the centre of mass
 was not accurate enough to identify the centre of mass of the droplets in Video 2. The use of HoughCircles on
 Video 2 was able to identify the centre of mass of the droplets successfully. Only Video 1 and 3 contained outer wraps.
 These were correctly identified and circled. The number of droplets in each video was also successfully counted.
